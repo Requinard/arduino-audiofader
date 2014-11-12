@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AudioV2", "AudioV2.vcxproj", "{4AF92654-7E0F-4F7F-98D5-D5AFA63B7497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AF92654-7E0F-4F7F-98D5-D5AFA63B7497}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4AF92654-7E0F-4F7F-98D5-D5AFA63B7497}.Debug|Win32.Build.0 = Debug|Win32
+		{4AF92654-7E0F-4F7F-98D5-D5AFA63B7497}.Release|Win32.ActiveCfg = Release|Win32
+		{4AF92654-7E0F-4F7F-98D5-D5AFA63B7497}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
